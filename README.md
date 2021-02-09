@@ -1,2 +1,3 @@
 # hello-world
-this is a repository for the bants
+
+this was a repository for the bants, now its a serious one.
